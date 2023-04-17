@@ -7,10 +7,10 @@ int strlen_(const char* str){
 	}
 	return i;
 }
-
 int add(int nbr1, int nbr2){
-	return nbr1+nbr2;
+        return nbr1+nbr2;
 }
+
 int main(){
 		printf("strlen.......\n");
 	char* j = "Hello UCBC_";
